@@ -1,0 +1,66 @@
+.tabbg{
+    background-image: url('../images/tan.jpg');
+}
+
+.common{
+    background-color: beige;
+    border: solid 1px #654321;
+    position: absolute;
+}
+
+.center{
+    text-align: center;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    z-index: 2;
+    font-size: 25px;
+    color: beige;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.mainbody{
+    top: 60px;
+    left: 5px;
+    right: 5px;
+    bottom: 60px;
+}
+
+.footer{
+    bottom: 1px;
+    height: 50px;
+    right: 5px;
+    left: 5px;
+    font-size: 10px;
+    text-align: center;
+    position: fixed;
+    color: beige;
+}
+
+.padding{
+    padding-left: 50px;
+    padding-right: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 1000px;
+}
+
+.center2 {
+  margin: auto;
+  width: 50%;
+  border: px solid beige;
+  padding: 10px;
+}
+
+p{
+    color: beige;
+    text-align: center;
+}
